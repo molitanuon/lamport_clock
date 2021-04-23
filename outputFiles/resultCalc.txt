@@ -1,0 +1,10 @@
+
+input: 
+p0: a s1 r3 b 
+p1: c r2 s3 NULL 
+p2: r1 d s2 e 
+
+Lamport's logical clock values are: 
+p0: 1 2 8 9 
+p1: 1 6 7 0 
+p2: 3 4 5 6 

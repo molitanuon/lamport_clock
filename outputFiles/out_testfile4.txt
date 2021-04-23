@@ -1,0 +1,15 @@
+
+Initial Lamport's LC-Values:
+p0:  1  2  3  5 
+p1:  1  2  3  7 
+p2:  1  2  3  9 
+p3:  1  2  3  0 
+p4:  4  6  8  0 
+
+Final Distributed System Values:
+p0:  a  b  c  r1 
+p1:  d  e  f  r2 
+p2:  g  h  i  r3 
+p3:  j  k  l  NULL 
+p4:  s1  s2  s3  NULL 
+
